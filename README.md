@@ -9,19 +9,24 @@ The following questions will help us to generate insights that will allow  the s
 ### How is the district summary affected?						
 After removing 9th graders from the original analysis we found that the changes were not significant enough to impact the district summary results. The following two tables show the minimal differences that could be round to the next whole number and the results will be the same. 									
 
--- Original District Summary DataFrame						
+Original District Summary DataFrame
+
 ![Original_District_Summary](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Original_District_Summary.png)			
 
--- Updated District Summary DataFrame						
+Updated District Summary DataFrame
+
 ![Updated_District_Summary](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Updated_District_Summary.png)							
 
 ### How is the school summary affected?						
 After removing 9th graders from the original report we found that the school position among the rest of schools did not change, however the overall passing for both subjects, math and reading had a significant change from 93.18% to 66.91% and 97.01% to 69.66% respectively.								
 
--- Original School Summary 
+Original School Summary 
+
 ![Original_School_Summary](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Original_School_Summary.png)								
 
--- Updated School Summary 
+
+Updated School Summary 
+
 ![UpdatedSchool_Summary](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Updated_School_Summary.png)		
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
@@ -32,28 +37,33 @@ Removing one grade affects Thomas High School in math, reading and overall passi
 - Math and reading scores by grade
 The next two tables show updates on the new report where Thomas High School 9th grade is replaced by a non assign value. 
 
--- Updated Math Scores 									
+Updated Math Scores 
+
 ![Updated_Math_Scores](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Updated_Math_Scores.png)
 
--- Updated Reading Scores 
+Updated Reading Scores 
+
 ![Updated_Reading_Scores](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Updated_Reading_Score.png)
 
 - Scores by school spending									
 Thomas High School spending range per student is categorized at $631-$645. After modifying the data the school  is still in the category. 
 
--- Scores by School Spending  
+Scores by School Spending  
+
 ![Updated_Spending_Summary](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Updated_Spending_Summary.png)
 
 - Scores by school size										
 Thomas High School is categorized as a medium school size with a total of 1635 students, of which 461 are 9th graders.  
 
--- Scores by School Size 
+Scores by School Size 
+
 ![Updated_Size_Summary](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Updated_Size_Summary.png)
 
 - Scores by school type										
 Thomas High School is classified as a charter school type.
 
--- Scores by  School Type 
+Scores by  School Type 
+
 ![Updated_Type_Summary](https://github.com/ARobles127/School_Distric_Analysis/blob/main/Updated_Type_Summary.png)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
